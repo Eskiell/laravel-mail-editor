@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>MailEclipse - @yield('title')</title>
+    <title>Online-api - @yield('title')</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
