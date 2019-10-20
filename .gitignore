@@ -9,3 +9,4 @@ resources/views/draft/*
 !resources/views/templates/.gitkeep
 .DS_Store
 /vendor
+/.idea
